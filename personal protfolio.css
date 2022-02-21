@@ -42,6 +42,7 @@ header nav .branding {
 }
 .hero .left img {
   width: 400px;
+  margin-bottom:15rem;
 }
 .hero .right {
   color: #ffffff;
@@ -68,12 +69,12 @@ header nav .branding {
   margin-top: -6rem;
 }
 section {
-  padding: 6rem 0;
+  padding: 6rem 6rem;
 }
 section.about .about-me-img {
   height: 450px;
-  /* padding-left: 5rem; */
-  flex: auto;
+  padding-left: 20rem;
+  /* flex: auto; */
 }
 section.about h1 {
   margin-bottom: 1rem;
