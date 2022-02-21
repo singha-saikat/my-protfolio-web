@@ -9,6 +9,7 @@
 body {
   font-family: "Poppins", sans-serif;
   height: 3500px;
+  
 }
 
 header {
@@ -138,6 +139,7 @@ section.services .card-wrapper .card {
   padding-top: 5rem;
   text-align: center;
   transition: all 0.3s ease;
+  
 }
 section.services .card-wrapper .card img {
   position: absolute;
